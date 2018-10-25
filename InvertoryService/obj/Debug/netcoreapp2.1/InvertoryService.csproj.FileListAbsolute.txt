@@ -1,0 +1,14 @@
+C:\Users\shark\Documents\Visual Studio 2017\Projects\InvertoryService\InvertoryService\bin\Debug\netcoreapp2.1\InvertoryService.deps.json
+C:\Users\shark\Documents\Visual Studio 2017\Projects\InvertoryService\InvertoryService\bin\Debug\netcoreapp2.1\InvertoryService.runtimeconfig.json
+C:\Users\shark\Documents\Visual Studio 2017\Projects\InvertoryService\InvertoryService\bin\Debug\netcoreapp2.1\InvertoryService.runtimeconfig.dev.json
+C:\Users\shark\Documents\Visual Studio 2017\Projects\InvertoryService\InvertoryService\bin\Debug\netcoreapp2.1\InvertoryService.dll
+C:\Users\shark\Documents\Visual Studio 2017\Projects\InvertoryService\InvertoryService\obj\Debug\netcoreapp2.1\InvertoryService.csprojAssemblyReference.cache
+C:\Users\shark\Documents\Visual Studio 2017\Projects\InvertoryService\InvertoryService\obj\Debug\netcoreapp2.1\InvertoryService.csproj.CoreCompileInputs.cache
+C:\Users\shark\Documents\Visual Studio 2017\Projects\InvertoryService\InvertoryService\obj\Debug\netcoreapp2.1\InvertoryService.RazorAssemblyInfo.cache
+C:\Users\shark\Documents\Visual Studio 2017\Projects\InvertoryService\InvertoryService\obj\Debug\netcoreapp2.1\InvertoryService.RazorAssemblyInfo.cs
+C:\Users\shark\Documents\Visual Studio 2017\Projects\InvertoryService\InvertoryService\obj\Debug\netcoreapp2.1\InvertoryService.AssemblyInfoInputs.cache
+C:\Users\shark\Documents\Visual Studio 2017\Projects\InvertoryService\InvertoryService\obj\Debug\netcoreapp2.1\InvertoryService.AssemblyInfo.cs
+C:\Users\shark\Documents\Visual Studio 2017\Projects\InvertoryService\InvertoryService\obj\Debug\netcoreapp2.1\InvertoryService.RazorTargetAssemblyInfo.cache
+C:\Users\shark\Documents\Visual Studio 2017\Projects\InvertoryService\InvertoryService\bin\Debug\netcoreapp2.1\InvertoryService.pdb
+C:\Users\shark\Documents\Visual Studio 2017\Projects\InvertoryService\InvertoryService\obj\Debug\netcoreapp2.1\InvertoryService.dll
+C:\Users\shark\Documents\Visual Studio 2017\Projects\InvertoryService\InvertoryService\obj\Debug\netcoreapp2.1\InvertoryService.pdb
